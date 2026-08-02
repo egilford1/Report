@@ -63,6 +63,46 @@ Anthropic has since patched the issue. But the incident raises the question wort
 
 ---
 
+## Also This Week
+
+### The Boom Nobody Asked For
+*The menopause wellness industry is worth nearly $19 billion — so why do most women still feel like they're on their own?*
+
+Walk into any upscale pharmacy and the menopause shelf has quietly colonised half the vitamins aisle. There are cooling sprays and adaptogens, libido gummies and "hormone support" blends, apps that track your hot flushes and connect you with a "menopause coach." Brands with names like Nova Relief and Minerva Wellness have raised serious money. The global menopause wellness market is valued at $18.74 billion this year and projected to double to nearly $38 billion by 2035.
+
+Which makes it odd that, according to a survey of over 15,000 women conducted last year, only 14% of them had learned about menopause from a healthcare professional. Ninety-nine percent said they wanted it included in routine health checks.
+
+Those two figures should produce cognitive dissonance — or rage. We are deep into a cultural moment that Davina McCall effectively kickstarted with her Channel 4 documentaries: menopause is discussed, hashtagged, mainstreamed, turned into a TED talk and a supplement range. And yet the lived experience of most women in the UK remains one of vague symptoms, inadequate appointments, and uneven access to treatments. A major international review published last year found menopause care to be "fragmented and unequal worldwide." The NHS, to its credit, has just announced menopause will be added to routine health checks — a real, if long-overdue, shift — but it barely scratches the structural problem.
+
+This is Bloomberg Businessweek's cover story this week, and the critique it lands is sharp: the wellness industry has rushed into the gap between women's need and the healthcare system's provision, and what it sells often resembles care without actually being it. Some of it is straightforwardly misleading. This spring, the UK's Advertising Standards Authority found that Minerva Wellness and Nova Relief had broken rules by suggesting their supplements could work like medicines — effectively positioning over-the-counter pills as alternatives to HRT. They cannot. They do not.
+
+HRT itself — real HRT, the kind with robust clinical evidence behind it — has also been in short supply. The trigger was unexpected: in November 2025, the FDA finally removed its outdated boxed warning on menopausal hormone therapy, the relic of a 2002 study that had unfairly frightened women and doctors away from the treatment for over two decades. The resulting demand spike was enormous. Patch use had already tripled between 2018 and early 2026; the post-FDA-reversal surge compressed years of growth into months. Manufacturing capacity was not ready.
+
+There is something almost perfectly dark about this. After decades of being demonised and underprescribed, HRT is vindicated — and the shelves run out. Into the vacuum rushes an industry selling things that are not HRT but look, in the right lighting, a little like it.
+
+The broader pattern is one women's health knows too well: attention without accountability. Genuine medical need, commercial energy, regulatory lag. The question is whether the menopause moment becomes a real turning point in how medicine treats women in midlife — or whether it turns out, like so many wellness revolutions before it, to be mostly something you can buy.
+
+---
+
+### The Continent Is on Fire
+*Ten thousand dead, 330,000 evacuated, and a summer scientists say would have been virtually impossible without climate change*
+
+At the height of last month's fires, the smoke from the Gironde was visible from space. The blaze, which tore through 42,000 hectares of forest south of Bordeaux — one of the largest fires in France since the Second World War — was still burning when a new front opened west of Madrid. That fire merged with a second to form a single inferno across 80,000 hectares of Castilian hillside: the largest in Spain's recorded history. By 1 August, roughly 330,000 people had been forced from their homes across France and Spain alone, with fresh evacuations beginning as the crisis shifted east to Greece, where gale-force winds drove flames through a coastal resort and hundreds fled by sea.
+
+This is the summer Europe is having.
+
+The heatwaves that preceded the fires broke records quietly and then spectacularly. Western Europe's June ran 3.06 degrees Celsius above its recent average — not a rounding error, an epochal number. Heat scientists have been explicit: that June would have been "virtually impossible" without human-induced climate change. And the heat is not incidental to the fires; it *is* the fires, in a different form — parched soil, dead vegetation, winds that strip moisture from everything they touch.
+
+The death toll from the heat alone is still being tallied. The European mortality monitor EuroMOMO attributes around 10,600 excess deaths to this summer's temperatures so far — including more than 2,700 in Britain. That figure tends to disappear from the news cycle. Heat death is quiet: people die indoors, of causes attributed to the heart or lungs. The aggregate is catastrophic, but it leaves no photograph.
+
+The EU's emergency response infrastructure — rescEU, a fleet of pre-positioned firefighting aircraft — has never been activated at this scale. Twenty-two planes, five helicopters, 777 firefighters drawn from twelve countries, deployed simultaneously. This is the system performing exactly as designed. It is visibly struggling.
+
+The Economist's piece this week frames the fires not as a crisis but as a forecast — its headline calls them "just the start," and the word *start* is doing real work. Fire scientists and climate modellers are converging on a conclusion that European governments have been slow to absorb: the Mediterranean fire season now resembles what hurricane season looks like in the Atlantic. It is annual, structural, and worsening. Portugal, Spain, France, Greece, and Turkey are not experiencing a run of bad luck. They are experiencing a new climate.
+
+The question left hanging — and it is not a small one — is whether Europe's planning will ever catch up to the summers it is already living through. Building codes, land management, early-warning systems, evacuation infrastructure: all of it calibrated to a climate that no longer exists.
+
+---
+
 ## This Week in London History
 
 ### The Street That Changed How We See in the Dark
